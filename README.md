@@ -119,6 +119,12 @@ SHALE: An Efficient Algorithm for Allocation of Guaranteed Display Advertising G
 				[2] 300
 		    
 				[3] 300
+	edges:
+	0	->	0
+	0	->	1
+	1	->	1
+	1	->	2
+	
 		  
 ###expected result:
 	
