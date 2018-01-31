@@ -109,13 +109,13 @@ begin
 
 demand side	supply side
 
-[0]400                [0] 300
+[0]400                	[0] 300
 
-		[1] 300 
+			[1] 300 
 [1]600                 
-		[2] 300
+			[2] 300
 		    
-		[3] 300
+			[3] 300
 		  
 ###expected result:
 demand index	supply index	expected ratio	shale reulst
