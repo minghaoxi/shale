@@ -100,25 +100,25 @@ SHALE: An Efficient Algorithm for Allocation of Guaranteed Display Advertising G
 
 ### result
 
-=== RUN   TestShale
-begin
+	=== RUN   TestShale
+	begin
 
-=== RUN   TestShale
-begin
-[[0.9965149 0] [0.33681843 0.66517824] [0 1.0014881] [0 0]]
---- PASS: TestShale (0.00s)
+	=== RUN   TestShale
+	begin
+	[[0.9965149 0] [0.33681843 0.66517824] [0 1.0014881] [0 0]]
+	--- PASS: TestShale (0.00s)
 
 ### description
 
-demand side	supply side
+	demand side	supply side
 
-[0]400                	[0] 300
+	[0]400                	[0] 300
 
-			[1] 300 
-[1]600                 
-			[2] 300
+				[1] 300 
+	[1]600                 
+				[2] 300
 		    
-			[3] 300
+				[3] 300
 		  
 ###expected result:
 demand index	supply index	expected ratio	shale reulst
