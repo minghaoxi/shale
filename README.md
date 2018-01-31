@@ -118,7 +118,8 @@ demand side          supply side
 		      [3] 300
 		  
 expected result:
-demand index    supply index          expected ratio    shale reulst
+demand index	supply index	expected ratio	shale reulst
+
 0                    0                  1                0.9965149
 1                    0                  0                0
 0                    1                  1/3              0.33681843
