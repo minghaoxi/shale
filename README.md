@@ -121,14 +121,15 @@ SHALE: An Efficient Algorithm for Allocation of Guaranteed Display Advertising G
 				[3] 300
 		  
 ###expected result:
-demand index	supply index	expected ratio	shale reulst
+	
+	demand index	supply index	expected ratio	shale reulst
 
-0                    0                  1                0.9965149
-1                    0                  0                0
-0                    1                  1/3              0.33681843
-1                    1                  2/3              0.66517824
-0                    2                  0                0
-1                    2                  1                1.0014881
-0                    3                  0                0
-1                    3                  0                0
+	0                    0                  1                0.9965149
+	1                    0                  0                0
+	0                    1                  1/3              0.33681843
+	1                    1                  2/3              0.66517824
+	0                    2                  0                0
+	1                    2                  1                1.0014881
+	0                    3                  0                0
+	1                    3                  0                0
 
