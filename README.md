@@ -126,7 +126,7 @@ SHALE: An Efficient Algorithm for Allocation of Guaranteed Display Advertising G
 	1	->	2
 	
 		  
-###expected result:
+### expected result:
 	
 	demand index	supply index	expected ratio	shale reulst
 
